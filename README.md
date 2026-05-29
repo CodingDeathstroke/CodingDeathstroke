@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Destiny 👋
 
-<!--
-**CodingDeathstroke/CodingDeathstroke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Automation & no-code/low-code workflow designer**  
+Building intelligent systems with n8n, JavaScript, and modern APIs.
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 I design production‑ready automation workflows that save hours daily.  
+- 🤖 Deep experience with **n8n nodes**, HTTP requests, webhooks, and error handling.  
+- 📈 Turning business processes into autonomous, event‑driven pipelines.  
+- 🌱 Currently expanding into custom JavaScript nodes and AI agent orchestration.  
+
+## ⚙️ Core Skills
+
+- **Automation** – n8n, Zapier, Make  
+- **Languages** – JavaScript (Node.js), JSON, Python (basic)  
+- **Integrations** – REST APIs, Webhooks, Google Sheets, Slack, Airtable, OpenAI  
+- **Code & Tools** – Git, GitHub, VS Code, Postman  
+
+## 🚀 Featured Project
+
+> **[ai-automation-workflows]** – Real‑world n8n workflows (lead gen, data sync, AI agents).  
+> *Check the repo for exportable JSON files you can import and run today.*
+
+📫 **Reach me** – [LinkedIn] | [Twitter/X] | [your email]
+
+---
+*“Automation doesn’t replace thinking – it amplifies it.”*
