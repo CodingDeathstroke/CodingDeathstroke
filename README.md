@@ -22,7 +22,7 @@ Building intelligent systems with n8n, JavaScript, and modern APIs.
 > **[ai-automation-workflows]** – Real‑world n8n workflows (lead gen, data sync, AI agents).  
 > *Check the repo for exportable JSON files you can import and run today.*
 
-📫 **Reach me** – [https://www.linkedin.com/in/destiny-giwa-0059a43b6?utm_source=share_via&utm_content=profile&utm_medium=member_ios] | [DeeeGiwa] | [Destinygiwa01@gmail.com]
+📫 **Reach me** – [https://www.linkedin.com/in/destiny-giwa-0059a43b6?utm_source=share_via&utm_content=profile&utm_medium=member_ios] | [https://x.com/deeegiwa?s=21] | [Destinygiwa01@gmail.com]
 
 ---
 *“Automation doesn’t replace thinking – it amplifies it.”*
