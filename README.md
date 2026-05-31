@@ -26,3 +26,6 @@ Building intelligent systems with n8n, JavaScript, and modern APIs.
 
 ---
 *“Automation doesn’t replace thinking – it amplifies it.”*
+## Featured Project
+
+**[View my AI automation workflows →](https://github.com/CodingDeathstroke/ai-automation-workflows)**
